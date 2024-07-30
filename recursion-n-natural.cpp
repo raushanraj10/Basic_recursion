@@ -79,19 +79,3 @@ int sumofsquareN(int n)
        return n;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
